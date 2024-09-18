@@ -1,0 +1,5 @@
+Ejercicio 1: Leer un archivo TXT
+Crea un programa en Python que lea el contenido de un archivo mi_archivo.txt 
+y muestre cada linea en la consola. 
+El archivo tiene varias lineas de texto. 
+Usa el metodo que prefieras para leer el archivo.
