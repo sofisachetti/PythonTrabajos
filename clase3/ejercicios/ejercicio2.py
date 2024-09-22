@@ -1,6 +1,5 @@
 # Ejercicio 2: Contador de Números Específicos
-# Escribe un programa que cuente cuántas veces aparece un número
-# específico en una lista.
+# Escribe un programa que cuente cuántas veces aparece un número específico en una lista.
 # Instrucciones:
 # • Define una lista de números predefinida o pídele al usuario que ingrese los números.
 # • Pide al usuario que ingrese un número a buscar.
